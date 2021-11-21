@@ -1,0 +1,12 @@
+Current DT: 11/21/2021 12:12:57
+
+{'Binance Coin': '$589.77',
+ 'Bitcoin': '$59,433.09',
+ 'Cardano': '$1.87',
+ 'Dogecoin': '$0.2288',
+ 'Ethereum': '$4,363.05',
+ 'Polkadot': '$41.31',
+ 'Solana': '$225.28',
+ 'Tether': '$1.00',
+ 'USD Coin': '$0.9995',
+ 'XRP': '$1.08'}
